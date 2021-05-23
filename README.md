@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @saidsafarov
 - 👀 I’m interested in Tech
 - 🌱 I’m currently learning Linux, Ethical Hacking/Pentesting
-- 💞️ I’m looking to collaborate on NOWHERE, 'cause I do not need it buddy! 
+- � I’m looking to collaborate on NOWHERE, 'cause I do not need it buddy! 
 - 📫 How to reach me said.safarov0911@gmail.com
 
 <!---
