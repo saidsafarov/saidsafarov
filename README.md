@@ -1,3 +1,4 @@
+These are defaults of Said!
 - 👋 Hi, I’m @saidsafarov
 - 👀 I’m interested in Tech
 - 🌱 I’m currently learning Linux, Ethical Hacking/Pentesting
